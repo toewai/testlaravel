@@ -1,16 +1,17 @@
-
 [
-{
-id:0,
-album:'Aung par Say',
-Songs:[
-  {
-  name: 'Aung kya par say',
-  artists:['Si Taw Gyi'],
-  }
+   {
+      "id": 0,
+      "alburm": "Magway Mya Thalon",
+      "year": 1985,
+      "img": "https://image.shutterstock.com/image-illustration/3d-illustration-musical-notes-signs-600w-761313844.jpg",
+      "songs": {
+         "id": 0,
+         "name": "Kaung Kin Ka Bird",
+         "artists": {
+            "id": 0,
+            "name": "Rain Moe",
+            "gender": "Male"
+         }
+      }
+   }
 ]
-year:1970,
-img:'https://image.shutterstock.com/image-illustration/3d-illustration-musical-notes-signs-600w-761313844.jpg'
-}
-]
-
