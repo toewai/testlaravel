@@ -2,8 +2,12 @@
 [
 {
 album:'Aung par Say',
-name: 'Aung kya par say',
-artists:['Si Taw Gyi'],
+Songs:[
+  {
+  name: 'Aung kya par say',
+  artists:['Si Taw Gyi'],
+  }
+]
 year:1970,
 img:'https://image.shutterstock.com/image-illustration/3d-illustration-musical-notes-signs-600w-761313844.jpg'
 }
