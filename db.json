@@ -1,29 +1,9 @@
 [
-   {
-      "id": "0",
-      "alburm": "Magway Mya Thalon",
-      "year": "1985",
-      "img": "https://image.shutterstock.com/image-illustration/3d-illustration-musical-notes-signs-600w-761313844.jpg",
-   },
-   
-   {
-      "id": "1",
-      "alburm": "Magway Mya Thalon",
-      "year": "1985",
-      "img": "https://image.shutterstock.com/image-illustration/3d-illustration-musical-notes-signs-600w-761313844.jpg",
-   },
-   
-   {
-      "id": "2",
-      "alburm": "Magway Mya Thalon",
-      "year": "1985",
-      "img": "https://image.shutterstock.com/image-illustration/3d-illustration-musical-notes-signs-600w-761313844.jpg",
-   },
-   
-   {
-      "id": "3",
-      "alburm": "Magway Mya Thalon",
-      "year": "1985",
-      "img": "https://image.shutterstock.com/image-illustration/3d-illustration-musical-notes-signs-600w-761313844.jpg",
-   }
+  {
+    "id": "28",
+    "album": "Voyager A",
+    "year": "Warp Drive",
+    "img": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/voyager.jpg",
+  },
+
 ]
