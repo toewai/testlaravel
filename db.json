@@ -36,24 +36,19 @@
     },
     {
         "id": "0",
-        "album": "Magway Mya Thalon",
-        "year": "1985",
+        "album": "A May Songs",
+        "year": "1995",
         "img": "https://image.shutterstock.com/image-illustration/3d-illustration-musical-notes-signs-600w-761313844.jpg",
         "songs": [
             {
                 "id": "0",
-                "name": "Kaung Kin Ka Bird",
+                "name": "A May Eain",
                 "artists": [
                     {
                         "id": "0",
-                        "name": "Rain Moe",
+                        "name": "Htoo Eain Thin",
                         "gender": "Male"
                     },
-                    {
-                        "id": "2",
-                        "name": "Nay Toe",
-                        "gender": "Male"
-                    }
                 ]
             },
             {
